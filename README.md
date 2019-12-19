@@ -20,3 +20,10 @@ PIAIC HTML and CSS Assignments Description.
   5. Final Assignment of CSS - Portfolio[ JPG](Final_Assignment_of_CSS/Company-Portfolio.jpg) | [ PDF ](Final_Assignment_of_CSS/Company_Portfolio.pdf) | [ PSD ](Final_Assignment_of_CSS/Company_Portfolio.psd) | [ AI ](Final_Assignment_of_CSS/Company_Portfolio.ai)  
   - [README.md](Final_Assignment_of_CSS/README.md)
 
+
+
+All the assignments you complete in the class or in the video lecture... Upload your all assignments in a single Github repository. Attached GitHub link in the google form.
+
+For Online: Make your assignments as your lectures are being uploaded. Your deadline has not been decided yet Google form link for online: https://forms.gle/23cah9u7Wd8geq4J7
+
+For Onsite: Deadline is 30th December 2019 Google form link for onsite: https://forms.gle/jxQWpVw6MQpzh7jD8
