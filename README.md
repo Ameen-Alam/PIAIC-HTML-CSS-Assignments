@@ -16,7 +16,7 @@ PIAIC HTML and CSS Assignments Description.
   - [README.md](ch_8_Final_Assignment_of_HTML/README.md)
   6. [Chapter -10](ch_10/periodic_html.png)
   5. [Chapter -11 -12](ch_11_12/12.pdf)
-  5. [Chapter -13](ch_13/13.png)
+  5. [Chapter -13](ch_13/13.PNG)
   5. Final Assignment of CSS - Portfolio[ JPG](Final_Assignment_of_CSS/Company-Portfolio.jpg) | [ PDF ](Final_Assignment_of_CSS/Company_Portfolio.pdf) | [ PSD ](Final_Assignment_of_CSS/Company_Portfolio.psd) | [ AI ](Final_Assignment_of_CSS/Company_Portfolio.ai)  
   - [README.md](Final_Assignment_of_CSS/README.md)
 
