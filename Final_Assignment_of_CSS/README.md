@@ -5,3 +5,7 @@ This is your final assignment of HTML And CSS.
 
 Essential CSS Tricks Every Designer Should Know..
 [CSS Tricks](https://css-tricks.com/)
+
+
+Increase a section in the middle of the website.
+just like this sample [packages section](Packages.PNG)
