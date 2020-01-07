@@ -5,6 +5,9 @@ PIAIC HTML and CSS Assignments Description.
 
 [```HTML Cheat Sheet PDF``` ](complete-html-cheat-sheet.pdf)
 
+[```CSS-Selectors Guide PDF``` ](CSS-Selectors.pdf)
+
+
 #### Contents:
   1. [Chapter -1](ch_1/1.pdf)
   2. [Chapter -2](ch_2/2.pdf)
