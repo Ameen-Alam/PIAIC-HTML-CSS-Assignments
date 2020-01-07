@@ -16,13 +16,11 @@ PIAIC HTML and CSS Assignments Description.
   5. [Chapter -5](ch_5/5.pdf)
   6. [Chapter -6](ch_6/periodic_html.png)
   7. [Chapter -7](ch_7/Forms.pdf)
-  8. [Final Assignment of HTML](ch_8_Final_Assignment_of_HTML/HTML.pdf)
-  - [README.md](ch_8_Final_Assignment_of_HTML/README.md)
+  8. [Final Assignment of HTML](ch_8_Final_Assignment_of_HTML/HTML.pdf) - [README.md](ch_8_Final_Assignment_of_HTML/README.md)
   9. [Chapter -10](ch_10/periodic_html.png)
   10. [Chapter -11 -12](ch_11_12/12.pdf)
   11. [Chapter -13](ch_13/13.PNG)
-  12. Final Assignment of CSS - Portfolio[ JPG](Final_Assignment_of_CSS/Company-Portfolio.jpg) | [ PDF ](Final_Assignment_of_CSS/Company_Portfolio.pdf) | [ PSD ](Final_Assignment_of_CSS/Company_Portfolio.psd) | [ AI ](Final_Assignment_of_CSS/Company_Portfolio.ai)  
-  - [README.md](Final_Assignment_of_CSS/README.md)
+  12. Final Assignment of CSS - Portfolio[ JPG](Final_Assignment_of_CSS/Company-Portfolio.jpg) | [ PDF ](Final_Assignment_of_CSS/Company_Portfolio.pdf) | [ PSD ](Final_Assignment_of_CSS/Company_Portfolio.psd) | [ AI ](Final_Assignment_of_CSS/Company_Portfolio.ai)  - [README.md](Final_Assignment_of_CSS/README.md)
 
 ----------------------
 
