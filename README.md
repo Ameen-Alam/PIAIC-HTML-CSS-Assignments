@@ -8,7 +8,7 @@ PIAIC HTML and CSS Assignments Description.
 [```CSS-Selectors Guide PDF``` ](CSS-Selectors.pdf)
 
 
-#### Contents:
+#### Contents are mentioned below:
   1. [Chapter -1](ch_1/1.pdf)
   2. [Chapter -2](ch_2/2.pdf)
   3. [Chapter -3](ch_3/3.pdf)
