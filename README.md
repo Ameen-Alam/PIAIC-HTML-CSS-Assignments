@@ -29,6 +29,3 @@ PIAIC HTML and CSS Assignments Description.
 PIAIC CNC Batch 4-35 (Sir Daniyal & Sir Yousuf & Ameen Alam)
 
 All the assignments you complete in the class or in the video lecture... Upload your all assignments in a single Github repository. Attached GitHub link in the google form.
-
-Make your assignments as your lectures are being uploaded. Your deadline has not been decided yet.
-Google form link: https://forms.gle/mPM4JQpcPG4ebJcT8
