@@ -1,4 +1,4 @@
-# PIAIC-HTML-CSS-Assignments
+# HTML-CSS-Assignments
 PIAIC HTML and CSS Assignments Description.
 
 [```HTML AND CSS BOOK PDF``` ](HTMLAndCSSBook.pdf)
