@@ -31,7 +31,7 @@ Assignment 10. [Chapter -11 -12](ch_11_12/12.pdf)
 
 Assignment 11. [Chapter -13](ch_13/13.PNG)
 
-Assignment 12. Final Assignment of CSS - Portfolio[ JPG](Final_Assignment_of_CSS/Company-Portfolio.jpg) | [ PDF ](Final_Assignment_of_CSS/Company_Portfolio.pdf) | [ PSD ](Final_Assignment_of_CSS/Company_Portfolio.psd) | [ AI ](Final_Assignment_of_CSS/Company_Portfolio.ai)  - [README.md](Final_Assignment_of_CSS/README.md)
+Assignment 12 (Mandatory). Final Assignment of CSS - Portfolio[ JPG](Final_Assignment_of_CSS/Company-Portfolio.jpg) | [ PDF ](Final_Assignment_of_CSS/Company_Portfolio.pdf) | [ PSD ](Final_Assignment_of_CSS/Company_Portfolio.psd) | [ AI ](Final_Assignment_of_CSS/Company_Portfolio.ai)  - [README.md](Final_Assignment_of_CSS/README.md)
 
 ----------------------
 
